@@ -1,0 +1,25 @@
+header {
+    color: white;
+    background-color: black;
+    width: 1420px;
+    height: 70px;
+    font-size: 15px;
+    text-align: center;
+}
+#button {
+    margin-top: 200px;
+    margin-left: 200px;
+    height: 50px;
+    font-size: 15px;
+}
+#mcc {
+    height: 50px;
+    font-size: 15px;  
+}
+#Universe {
+    font-size: 15px;  
+}
+#universe2 {
+    height: 50px;
+    font-size: 15px;    
+}
